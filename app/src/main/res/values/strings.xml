@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">iBeaconAdvertiser</string>
+    <string name="setUUID">Введите UUID без дефисов:</string>
+    <string name="setMajor">Введите Major:</string>
+    <string name="setMinor">Введите Minor:</string>
+    <string name="deviceError">Данное устройство не поддерживает необходимые компоненты.</string>
+    <string name="bluetoothTurnOn">Включить Bluetooth</string>
+    <string name="startScan">Начать advertisement</string>
+    <string name="stopScan">Остановить advertisement</string>
+
+</resources>
